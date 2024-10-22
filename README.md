@@ -1,6 +1,6 @@
 # kr0k3tTⒶ1mⒶR12
 
-kr0k3Ⓐ1mⒶR12  is tool to used to report pedophiles and Nazis' accounts on Facebook
+kr0k3tTⒶ1mⒶR12  is tool to used to report pedophiles and Nazis' accounts on Facebook
 
 I creating a list of fake devices,IP addresses, and fake user codes. 
 
