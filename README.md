@@ -8,9 +8,9 @@ The tool sends reports using fake values, in order to avoid revealing the actual
 
 The code is implemented so that reports are sent between random intervals to avoid detection of abnormal activities.
 
-git clone https://github.com/BasHB00M01001/kr0k341m4R12.git
+git clone https://github.com/BasHB00M01001/kr0k3tT41m4R12.git
 
-cd kr0k341m4R12
+cd kr0k3tT41m4R12
 
 python kr0k3tTⒶ1mⒶR12.py
 
